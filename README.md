@@ -12,7 +12,7 @@ Projects from the University of Texas AI and ML Post Grad Program
 
 ### Ensemble Techniques
 
-### Feature Engineering
+### Model Tuning and Feature Engineering
 
 ### Clustering Techniques
 
