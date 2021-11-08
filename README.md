@@ -12,7 +12,7 @@ Pandas, NumPy, Visualisation techniques, EDA
 
 
 ### Statistical Learning
-**Statistical Tests for Medical Insurance Claims**
+**Statistical Tests for Medical Insurance Claims**  
 Statistical exploration and testing of medical insurance claims data to understand and prove hypotheses surrounding claims and medical conditions.
 
 **Skills and Tools:**
