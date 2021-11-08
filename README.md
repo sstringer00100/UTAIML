@@ -35,7 +35,8 @@ AllLifeBank dataset was used to build a model that will help the marketing depar
 EDA, Data Pre-processing, Logistic regression, Finding optimal threshold using AUC-ROC curve, Decision trees, Pruning
 
 
-### Ensemble Techniques
+### Ensemble Techniques  
+**Travel Package Purchase Prediction**  
 
 ### Model Tuning and Feature Engineering
 
