@@ -44,15 +44,5 @@ EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and R
 
 ### Model Tuning and Feature Engineering
 
-### Clustering Techniques
 
-### Artifical Neural Networks
-
-### Convolutional Neural Networks
-
-### Natural Language Processing
-
-### Reccomendation Systems
-
-### Model Pipelines and Deployment
 
