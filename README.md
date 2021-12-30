@@ -43,7 +43,7 @@ The "Visit with us" travel company dataset is used to analyze the customers' inf
 EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and Random Forest, Boosting Classifier - AdaBoost, Gradient Boosting, XGBoost, Stacking Classifier, Hyperparameter Tuning using GridSearchCV, and Business Recommendations  
 
 ### Model Tuning and Feature Engineering
-**Credit Card Users Churn Prediction**
+**Credit Card Users Churn Prediction**  
 "Thera Bank" needs to come up with a classification model that will help the bank predict if a customer will leave the credit card services or not and the reason behind it.
 
 **Skills and Tools:**  
