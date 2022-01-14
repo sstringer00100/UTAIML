@@ -49,3 +49,10 @@ EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers - Bagging and R
 **Skills and Tools:**  
 Cross validation, up and down smapling, regularization, Pipelines and hyperparameter tuning
 
+
+### Unsupervised Learning 
+**Bank Customer Segmentation**  
+"AllLife Bank" wants to identify different segments among their existing customers based on their spending patterns and past interaction with the bank using clustering algorithms to better market to and service their customers.  
+
+**Skills and Tools:**  
+K-means clustering, hierarchical clustering, elbow curves, silhouette score, cophenetic correlation, cluster profiling, linkage methods, cluster dendrograms
