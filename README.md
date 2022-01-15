@@ -4,7 +4,7 @@ My projects from the University of Texas AI and ML Post Grad Program
 
 
 ### Exploratory Data Analysis
-[**Fitness Product Customer Data Exploration**](https://nbviewer.org/github/sstringer00100/UTAIML/blob/main/EDA_Project.ipynb)  
+[**Fitness Product Customer Data Exploration**](https://github.com/sstringer00100/UTAIML/blob/main/EDA_Project.ipynb)  
 To execute preliminary data analysis by explore the dataset and comeup with some basic observations about the data. Build customer profile to help capitalize based on it. Also extract actionable insights that drives the sales of the business.
 
  **Skills and Tools:**
@@ -51,7 +51,7 @@ Cross validation, up and down smapling, regularization, Pipelines and hyperparam
 
 
 ### Unsupervised Learning 
-**Bank Customer Segmentation**  
+[**Bank Customer Segmentation**](https://github.com/sstringer00100/UTAIML/blob/main/Bank_Customer_Segmentation.ipynb) 
 "AllLife Bank" wants to identify different segments among their existing customers based on their spending patterns and past interaction with the bank using clustering algorithms to better market to and service their customers.  
 
 **Skills and Tools:**  
