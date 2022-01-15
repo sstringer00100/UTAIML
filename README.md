@@ -51,7 +51,7 @@ Cross validation, up and down smapling, regularization, Pipelines and hyperparam
 
 
 ### Unsupervised Learning 
-[**Bank Customer Segmentation**](https://github.com/sstringer00100/UTAIML/blob/main/Bank_Customer_Segmentation.ipynb) 
+[**Bank Customer Segmentation**](https://github.com/sstringer00100/UTAIML/blob/main/Bank_Customer_Segmentation.ipynb)   
 "AllLife Bank" wants to identify different segments among their existing customers based on their spending patterns and past interaction with the bank using clustering algorithms to better market to and service their customers.  
 
 **Skills and Tools:**  
