@@ -1,6 +1,5 @@
 ## University of Texas Post Graduate Program in Artificial Intelligence and Machine Learning
 My projects from the University of Texas AI and ML Post Grad Program  
-[Program Certified ePortfolio](https://eportfolio.greatlearning.in/steven-stringer)
 
 
 ### Exploratory Data Analysis
