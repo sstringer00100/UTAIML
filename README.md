@@ -4,7 +4,7 @@ My projects from the University of Texas AI and ML Post Grad Program
 
 ### Exploratory Data Analysis
 [**Fitness Product Customer Data Exploration**](https://github.com/sstringer00100/UTAIML/blob/main/EDA_Project.ipynb)  
-To execute preliminary data analysis by explore the dataset and comeup with some basic observations about the data. Build customer profile to help capitalize based on it. Also extract actionable insights that drives the sales of the business.
+To execute preliminary data analysis by explore the dataset and provide detailed observations about the data. Build customer profile to help capitalize based on it. Also extract actionable insights that drives the sales of the business.
 
  **Skills and Tools:**
 Pandas, NumPy, Visualisation techniques, EDA
