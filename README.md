@@ -19,7 +19,7 @@ Pandas, NumPy, Visualisation techniques, EDA, Hypothesis testing, Statistical me
 
 
 ### Linear Regression
-**Used Car Pricing Model**  
+[**Used Car Pricing Model**](https://github.com/sstringer00100/UTAIML/blob/main/Regression.ipynb)  
 Using the Cars4U dataset, need to come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing.
 
 **Skills and Tools:**
